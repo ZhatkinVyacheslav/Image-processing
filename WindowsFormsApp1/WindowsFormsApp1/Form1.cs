@@ -28,7 +28,7 @@ namespace WindowsFormsApp1
 
         void NoiseReyleigh1()
         {
-            var image = new Bitmap(pictureBox3.Image);
+            var image = new Bitmap(pictureBox1.Image);
             int w = image.Width;
             int h = image.Height;
 

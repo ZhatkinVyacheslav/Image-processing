@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsApp1.Properties {
+namespace GraphicsLabWork4_1.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace WindowsFormsApp1.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WindowsFormsApp1.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GraphicsLabWork4_1.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,19 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Image7 {
+        internal static System.Drawing.Bitmap b87479ba_dab1_4120_8d2b_17f0ae5cefa4 {
             get {
-                object obj = ResourceManager.GetObject("Image7", resourceCulture);
+                object obj = ResourceManager.GetObject("b87479ba-dab1-4120-8d2b-17f0ae5cefa4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap nike_logo_58160 {
+            get {
+                object obj = ResourceManager.GetObject("nike_logo-58160", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -76,26 +86,6 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap nizhnij_novgorod7 {
             get {
                 object obj = ResourceManager.GetObject("nizhnij-novgorod7", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Noise_salt_and_pepper {
-            get {
-                object obj = ResourceManager.GetObject("Noise_salt_and_pepper", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Wik1_original {
-            get {
-                object obj = ResourceManager.GetObject("Wik1-original", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
